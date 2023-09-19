@@ -43,6 +43,7 @@ a {
 
 .wrapper {
   max-width: 1536px;
+  background-color: #ddd;
   margin-left: auto;
   margin-right: auto;
   padding-left: 80px;
